@@ -1,0 +1,40 @@
+.social-link-4 > ul > li > a {
+  background-color: #ffffff;
+  border: none !important;
+  font-size: 18px;
+  display: block;
+  width: 80px;
+  height: 80px;
+  line-height: 40px;
+  text-align: center;
+  border-radius: 100%;
+}
+
+.template-color-1 .social-link-4 > ul > li:hover > a {
+  background-color: #ffffff;
+  border: none;
+  color: #ffffff;
+}
+
+.btn-white {
+    -webkit-box-shadow: 0px 8px 15px rgba(0, 0, 0, 0);
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0);
+    background-color: #ffffff;
+    color: #151515 !important;
+    height: 45px;
+    line-height: 45px;
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 400;
+    /*border-radius: 25px;*/
+    font-size: 16px;
+    border: solid 1px;
+}
+
+.page-sidebar .page-sidebar-wrapper > ul > li.open > a, .page-sidebar .page-sidebar-wrapper > ul > li > a:hover, 
+.page-sidebar .page-sidebar-wrapper > ul > li:hover > a {
+    background: #0b9c8f;
+    color: #ffffff;
+}
+

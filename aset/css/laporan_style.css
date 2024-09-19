@@ -1,0 +1,100 @@
+/*===========Body===========*/
+body{
+    font-family:serif;
+}
+
+/*===========Typography===========*/
+.c-h1{
+    font-size : 45px;
+    font-weight: bold;
+}
+.c-h2{
+    font-size : 35px;
+    font-weight: bold;
+}
+.c-h3{
+    font-size : 25px;
+    font-weight: bold;
+}
+.c-h4{
+    font-size : 15px;
+    font-weight: bold;
+}
+
+/*===========Font===========*/
+.text-light{
+    font-weight:lighter;
+}
+
+.text-upper{
+    text-transform: uppercase;
+}
+.text-lower{
+    text-transform: lowercase;
+}
+.text-capital{
+    text-transform: capitalize;
+}
+
+.text-danger{
+    color:firebrick;
+}
+
+/*===========Font===========*/
+.bordered{
+    border: 10px;
+}
+
+/*===========Layout===========*/
+.float-start{
+    float: left;
+}
+.float-center{
+    top: 50%;
+    left: 50%;
+}
+.float-start{
+    float: left;
+}
+
+div{
+    padding: 10px;
+    left: 50%;
+}
+
+/*===========Table===========*/
+
+.bordered{
+    border-collapse: collapse;
+}
+
+.bordered, th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.th-grey{
+    background-color:lightgray;
+}
+
+/*===========Custom===========*/
+.max-td-1{
+    max-width: 100px;
+}
+
+/*===========Custom===========*/
+.mt-1{
+    margin-top: 10px;
+}
+.mt-2{
+    margin-top: 20px;
+}
+.mt-3{
+    margin-top: 30px;
+}
+.mt-4{
+    margin-top: 40px;
+}
+.mt-5{
+    margin-top: 50px;
+}
